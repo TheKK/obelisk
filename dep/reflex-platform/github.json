@@ -1,8 +1,8 @@
 {
   "owner": "reflex-frp",
   "repo": "reflex-platform",
-  "branch": "rc/0.6.0.0",
+  "branch": "aa-bump-aeson-gadt-th",
   "private": false,
-  "rev": "8d421e9e06b0477cbc065346aaf596c9db6cc387",
-  "sha256": "06fy5b0mk5k2ps1h78yihf4j76cb855r86y9p4jv5d91nfyl2dck"
+  "rev": "97f960d62feb1fbf47b991bddcc6781be0c8fb92",
+  "sha256": "0ix1496bwrsgksj96gaqmp6hz9gil405r8gsfvf2jil2dimfl244"
 }
